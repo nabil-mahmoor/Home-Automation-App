@@ -1,0 +1,21 @@
+light mode:
+
+bg  grey[200]
+
+icon grey[900]
+
+container white
+
+welcome grey[600]
+
+Nabil grey[900]
+
+box  on grey[900] : off white
+
+img on grey[300] : off grey[800]
+
+imgtext on grey[300] : off grey[800]
+
+thumb on grey[900] : off grey[600]
+
+track on grey[200] : off grey[200]
